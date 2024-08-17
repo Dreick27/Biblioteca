@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biblioteca.Views.Login.VLFooter">
+  <ContentView.Content>
+      <StackLayout>
+            
+            <Button Text="INGRESAR" Clicked="Button_Clicked" Padding="20" Margin="100,0" CornerRadius="25" BackgroundColor="#FC6E6E" TextColor="White"/>
+            <Label Text="Olvido su contraseña" TextColor="White" HorizontalOptions="Center"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

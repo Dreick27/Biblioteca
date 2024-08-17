@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biblioteca.Views.Home.VHPrincipal"
+             BackgroundImageSource="https://www.okchicas.com/wp-content/uploads/2019/05/Fondos-de-pantalla-Disney-10.jpg"
+             xmlns:home="clr-namespace:Biblioteca.Views.Home">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <home:VHHeader Padding="0,50"/>
+            <home:VHBody/>
+            <home:VHFooter/>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
+      "projectUniqueName": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
       "projectName": "Biblioteca.Android",
-      "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
+      "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
       "packagesPath": "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\",
-      "outputPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.Android\\obj\\",
+      "outputPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
+            "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

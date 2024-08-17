@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj": {}
+    "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj": {}
   },
   "projects": {
-    "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj": {
+    "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
+        "projectUniqueName": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
         "projectName": "Biblioteca.iOS",
-        "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
+        "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
         "packagesPath": "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\",
-        "outputPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\obj\\",
+        "outputPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
+              "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\",
-        "outputPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

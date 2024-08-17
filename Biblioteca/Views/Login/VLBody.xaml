@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biblioteca.Views.Login.VLBody">
+  <ContentView.Content>
+      <StackLayout>
+            <Frame>
+                <StackLayout>
+                    <Label Text="Usuario o correo:"/>
+                    <Frame >
+                        <Entry x:Name="txtvalor1"/>
+                    </Frame>
+                    
+                    <Label Text="Contraseña:"/>
+                    <Frame>
+                        <Entry x:Name="txtvalor2"/>
+                    </Frame>
+              
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

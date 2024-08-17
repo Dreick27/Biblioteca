@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Jv\\BO\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlfooter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlbody.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlbody.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlfooter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlheader.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|d:\\jv\\bo\\biblioteca\\biblioteca\\views\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14B57930-5BFB-4490-B69C-C68EBB02E019}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\login\\vlprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VLBody.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLBody.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLBody.xaml.cs",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLBody.xaml.cs",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLBody.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:56:06.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VLFooter.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLFooter.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLFooter.xaml.cs",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLFooter.xaml.cs",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLFooter.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:26:23.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VLBody.xaml",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLBody.xaml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLBody.xaml",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLBody.xaml",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLBody.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T18:37:52.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VLFooter.xaml",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLFooter.xaml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLFooter.xaml",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLFooter.xaml",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLFooter.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T18:06:14.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VLHeader.xaml",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLHeader.xaml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLHeader.xaml",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLHeader.xaml",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLHeader.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:41:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VLPrincipal.xaml",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLPrincipal.xaml",
+              "RelativeDocumentMoniker": "Biblioteca\\Views\\Login\\VLPrincipal.xaml",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Views\\Login\\VLPrincipal.xaml",
+              "RelativeToolTip": "Biblioteca\\Views\\Login\\VLPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T17:34:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\App.xaml.cs",
+              "ToolTip": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\App.xaml.cs",
+              "RelativeToolTip": "Biblioteca\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:25:30.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

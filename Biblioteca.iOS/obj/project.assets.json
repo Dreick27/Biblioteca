@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
+      "projectUniqueName": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
       "projectName": "Biblioteca.iOS",
-      "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
+      "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
       "packagesPath": "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\",
-      "outputPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\obj\\",
+      "outputPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
+            "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

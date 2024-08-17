@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V4/EmJ1jb3Y=",
+  "dgSpecHash": "FoMZULWJ4+k=",
   "success": true,
-  "projectFilePath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
+  "projectFilePath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.iOS\\Biblioteca.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

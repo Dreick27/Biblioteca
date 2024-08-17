@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biblioteca.Views.Login.VLPrincipal"
+             BackgroundImageSource="https://upload.wikimedia.org/wikipedia/commons/1/1a/Biblioteca_Universitaria_di_Bologna.jpg"
+             xmlns:home="clr-namespace:Biblioteca.Views.Login">
+    <ContentPage.Content>
+        <StackLayout>
+            <home:VLHeader/>
+            <home:VLBody/>
+            <home:VLFooter/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

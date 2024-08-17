@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rb2SxPXvo6M=",
+  "dgSpecHash": "bCKHWjKUN+w=",
   "success": true,
-  "projectFilePath": "D:\\Jv\\Biblioteca _Online\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
+  "projectFilePath": "D:\\Jv\\BO\\Biblioteca\\Biblioteca.Android\\Biblioteca.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ALUMNO-ETIA\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

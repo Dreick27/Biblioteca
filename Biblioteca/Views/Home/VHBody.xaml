@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biblioteca.Views.Home.VHBody">
+  <ContentView.Content>
+      <StackLayout>
+            <Frame>
+                <Image Source="https://depor.com/resizer/z5-UjYJmyJ79JhqO4z-fmYsqHOU=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/XFLF6U7B7NHRVDXWYKYVX6C4UI.jpg"></Image>
+            </Frame>
+      </StackLayout>
+  </ContentView.Content>
+</ContentView>
